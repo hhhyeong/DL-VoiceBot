@@ -26,7 +26,7 @@ https://www.ai-academy.ai/deepbot?query=%23%EC%B9%99
 
 
 
-** 딥러닝 기초 사전학습 추천
++ 딥러닝 기초 사전학습 추천
 [머신러닝 딥러닝 단기집중과정]
 https://developers.google.com/machine-learning/crash-course/?hl=ko
 
