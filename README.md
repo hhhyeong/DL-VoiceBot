@@ -31,5 +31,5 @@ https://www.ai-academy.ai/deepbot?query=%23%EC%B9%99
 https://developers.google.com/machine-learning/crash-course/?hl=ko
 
 
-** 텐서플로우는 1.13 정도로 설치되어 있으면 됩니다. pip install tensorflow 기본설치 하시면 됩니다. 
++ 텐서플로우는 1.13 정도로 설치되어 있으면 됩니다. pip install tensorflow 기본설치 하시면 됩니다. 
 
